@@ -1,0 +1,1 @@
+streamlit run main.py --server.port {{ cookiecutter.docker_port }} --browser.gatherUsageStats False
