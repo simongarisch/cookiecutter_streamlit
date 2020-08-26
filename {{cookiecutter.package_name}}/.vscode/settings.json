@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "python.testing.pytestArgs": [
+        "{{ cookiecutter.package_name }}"
+    ],
+    "python.testing.pytestEnabled": true,
+	"python.formatting.provider": "black",
+	"editor.formatOnSave": false,
+	"python.linting.pylintPath": "env\\Scripts\\pylint",
+	"python.linting.pep8Enabled": true,
+	"python.linting.pylintEnabled": true,
+	"git.enabled": true,
+	"python.formatting.blackArgs": ["--line-length", "79"]
+}

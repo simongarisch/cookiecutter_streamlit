@@ -1,0 +1,8 @@
+{
+    "author_name": "Simon Garisch",
+    "author_email": "gatman946 at gmail.com",
+
+    "package_name": "my_package",
+    "package_version": "0.1.0",
+    "package_description": "A short package description."
+}

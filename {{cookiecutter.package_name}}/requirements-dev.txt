@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest
+pytest-cov
+tox
+pylint
+flake8
+black
